@@ -1,0 +1,11 @@
+"ID","Age","Employment","Education","Marital","Occupation","Income","Sex","Deductions","Hours","Accounts","Adjustment","Adjusted"
+1024587,32,"Private","HSgrad","Divorced","Clerical",154676.74,"Male",0,40,"UnitedStates",0,0
+1038288,45,"Private","Bachelor","Married","Repair",27743.82,"Male",0,55,"UnitedStates",7298,1
+1044221,60,"Private","College","Married","Executive",7568.23,"Male",0,40,"UnitedStates",15024,1
+1047095,74,"Private","HSgrad","Married","Service",33144.4,"Male",0,30,"UnitedStates",0,0
+1047698,43,"Private","Bachelor","Married","Executive",43391.17,"Male",0,50,"UnitedStates",22418,1
+1084870,50,"Private","Master","Married","Executive",34919.16,"Male",0,40,"Philippines",7298,1
+1085176,37,"Private","HSgrad","Divorced","Executive",67176.79,"Male",0,35,"UnitedStates",0,0
+1093662,30,"Consultant","HSgrad","Divorced","Repair",9608.48,"Male",0,40,"UnitedStates",0,0
+1141887,32,"Consultant","HSgrad","Married","Sales",1428.27,"Male",0,60,"UnitedStates",28235,0
+1142177,49,"PSFederal","College","Married","Support",15345.33,"Male",0,40,"UnitedStates",0,1

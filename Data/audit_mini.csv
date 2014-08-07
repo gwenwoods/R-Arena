@@ -1,0 +1,3 @@
+"ID","Age","Employment","Education","Marital","Occupation","Income","Sex","Deductions","Hours","Accounts","Adjustment","Adjusted"
+1004641,38,"Private","College","Unmarried","Service",81838,"Female",0,72,"UnitedStates",0,0
+1038288,45,"Private","Bachelor","Married","Repair",27743.82,"Male",0,55,"UnitedStates",7298,1

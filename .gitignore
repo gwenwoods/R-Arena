@@ -1,0 +1,14 @@
+.*
+!.gitignore
+/target/
+**/target/
+/bin/
+*/bin/
+Data/numeric_10K.csv
+Data/factor_200K.csv
+Data/factor_400K.csv
+Data/claim_history.csv
+Data/adult_comb.csv
+Data/numeric_noNA_10K.csv
+Data/randomData.csv
+*.Rout
